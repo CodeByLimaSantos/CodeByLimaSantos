@@ -1,4 +1,4 @@
-<h1 align="center">Olá 👋 Eu sou Guilherme Lima</h1>
+<h1 align="center">Perfil de Guilherme Lima</h1>
 
 <p align="center">
   💻 Estudante de Desenvolvimento de Sistemas <br>
