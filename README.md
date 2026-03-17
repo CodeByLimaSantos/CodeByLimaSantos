@@ -102,15 +102,15 @@ Git • Linux • Python
 
 <div align="center">
 
-<a href="SEU_LINKEDIN_AQUI" target="_blank">
+<a href="[SEU_LINKEDIN_AQUI](https://www.linkedin.com/in/guilherme-lima-5b9182297/)" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-FFFFFF?style=for-the-badge&logo=linkedin&logoColor=000"/>
 </a>
 
-<a href="mailto:SEU_EMAIL_AQUI">
+<a href="mailto:guilimadev19@gmail.com">
   <img src="https://img.shields.io/badge/Gmail-FFFFFF?style=for-the-badge&logo=gmail&logoColor=000"/>
 </a>
 
-<a href="SEU_INSTAGRAM_AQUI" target="_blank">
+<a href="[SEU_INSTAGRAM_AQUI](https://www.instagram.com/glhrm.lima/)" target="_blank">
   <img src="https://img.shields.io/badge/Instagram-FFFFFF?style=for-the-badge&logo=instagram&logoColor=000"/>
 </a>
 </div>
