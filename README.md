@@ -1,57 +1,116 @@
 <div align="center">
-    <img src="https://readme-typing-svg.demolab.com?font=Inter&color=22C55E&width=500&size=18&center=true&lines=Guilherme+Lima+Santos;Backend+Software+Engineer;Java+%7C+Spring+Boot+%7C+MySQL;Python+Automation"/>
-</div>
 
-##
-
-<div align="center">
-
-<b>Guilherme Lima Santos</b>
-
-Backend developer focado em <b>Java (Spring Boot, JPA, MySQL)</b> e automações com <b>Python</b>.
-
-Estudante de Análise e Desenvolvimento de Sistemas, com experiência prática em soluções para problemas reais e automação de processos.
+<h1>Guilherme Lima Santos</h1>
 
 <br>
 
 <a href="https://limasantos.netlify.app" target="_blank">
-  <img src="https://img.shields.io/badge/_Ver_Portfólio-22C55E?style=for-the-badge&logo=vercel&logoColor=white"/>
+ <p align="center">
+> portfolio: <a href="https://limasantos.netlify.app" target="_blank">https://limasantos.netlify.app</a>
+</p>
 </a>
-
+<br><br>
 </div>
 
 ##
 
 <div align="center">
-
-<img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>
-<img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg"/>
-<img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"/>
-<img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"/>
-<img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg"/>
-<img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg"/>
-<img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"/>
-<img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"/>
-
-
-
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&color=22C55E&width=750&size=18&center=true&lines=>+building+scalable+backend+solutions+for+real+world+problems;>+automating+processes+and+optimizing+systems;>+turning+complex+problems+into+clean+solutions"/>
+</div>
 
 </div>
 
-##
+</div>
+
+<div align="center">
+    
+<br>
+
+<table width="100%">
+<tr>
+<td align="center" width="25%">
+
+<b>Backend</b>
+
+<br><br>
+
+<img width="42" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>
+<img width="42" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg"/>
+
+<br><br>
+
+Java • Spring Boot • JPA  
+Spring Security • JWT
+
+</td>
+
+<td align="center" width="25%">
+
+<b>Database</b>
+
+<br><br>
+
+<img width="42" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg"/>
+<img width="42" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg"/>
+<img width="42" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg"/>
+
+<br><br>
+
+MySQL • PostgreSQL • SQLite
+
+</td>
+
+<td align="center" width="25%">
+
+<b>Frontend</b>
+
+<br><br>
+
+<img width="42" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"/>
+<img width="42" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg"/>
+<img width="42" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"/>
+<img width="42" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"/>
+<img width="42" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"/>
+
+<br><br>
+
+React • Angular • JavaScript  
+HTML • CSS
+
+</td>
+
+<td align="center" width="25%">
+
+<b>Tools & Infra</b>
+
+<br><br>
+
+<img width="42" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"/>
+<img width="42" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg"/>
+<img width="42" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"/>
+
+<br><br>
+
+Git • Linux • Python
+
+</td>
+</tr>
+</table>
+
+</div>
 
 <div align="center">
 
-<a href="[SEU_LINKEDIN_AQUI](https://www.linkedin.com/in/guilherme-lima-5b9182297/)" target="_blank">
+<a href="SEU_LINKEDIN_AQUI" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-FFFFFF?style=for-the-badge&logo=linkedin&logoColor=000"/>
 </a>
 
-<a href="mailto:guilimadev19@gmail.com">
+<a href="mailto:SEU_EMAIL_AQUI">
   <img src="https://img.shields.io/badge/Gmail-FFFFFF?style=for-the-badge&logo=gmail&logoColor=000"/>
 </a>
 
-<a href="[SEU_INSTAGRAM_AQUI](https://www.instagram.com/glhrm.lima/)" target="_blank">
+<a href="SEU_INSTAGRAM_AQUI" target="_blank">
   <img src="https://img.shields.io/badge/Instagram-FFFFFF?style=for-the-badge&logo=instagram&logoColor=000"/>
 </a>
-
 </div>
