@@ -7,30 +7,22 @@
 <br><br>
 </div>
 
-##
+---
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&color=22C55E&width=750&size=18&center=true&lines=>+building+scalable+backend+solutions+for+real+world+problems;>+automating+processes+and+optimizing+systems;>+turning+complex+problems+into+clean+solutions"/>
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&color=22C55E&width=750&size=18&center=true&lines=>+building+scalable+backend+systems+for+real+world+problems"/>
 </div>
 
-##
+---
 
 <div align="center">
-
-<img
-  src="https://github-readme-stats.vercel.app/api/top-langs/?username=CodeByLimaSantos&layout=compact&langs_count=8&theme=transparent&title_color=22C55E&text_color=ffffff&icon_color=22C55E&border_color=22C55E"
-  height="155"
-/>
 &nbsp;&nbsp;
 <img
   src="https://github-readme-streak-stats.herokuapp.com?user=CodeByLimaSantos&theme=transparent&ring=22C55E&fire=22C55E&currStreakLabel=22C55E&sideLabels=ffffff&dates=aaaaaa&border=22C55E&stroke=22C55E&currStreakNum=ffffff&sideNums=ffffff"
   height="155"
 />
-
 </div>
-
 <br>
-
 <div align="center">
 <table width="100%">
 <tr>
@@ -56,7 +48,7 @@ MySQL • PostgreSQL • SQLite
 <b>Frontend</b>
 <br><br>
 <img width="42" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"/>
-<img width="42" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg"/>
+<img width="42" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angular/angular-original.svg"/>
 <img width="42" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"/>
 <img width="42" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"/>
 <img width="42" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"/>
@@ -76,7 +68,6 @@ Git • Linux • Python
 </tr>
 </table>
 </div>
-
 <div align="center">
 <a href="https://www.linkedin.com/in/guilherme-lima-5b9182297/" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-FFFFFF?style=for-the-badge&logo=linkedin&logoColor=000"/>
