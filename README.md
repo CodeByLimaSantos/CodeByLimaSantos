@@ -4,50 +4,52 @@
   <h1>Guilherme Lima</h1>
 
   <p>
-    Backend Software Engineer 
+    <h2>Backend Software Engineer</h2>
   </p>
 </div>
 
-## 🛠️ Stack
+
+<div align="center">
+<h3>
+Tech Stack
+</h3>
+</p>
+</div>
+
+
 
 <div align="center">
   <table width="100%">
     <tr>
       <td align="center" width="25%" valign="top">
         <b>Backend</b><br><br>
-        <img width="42" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="Java"/>
-        <img width="42" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" alt="Spring"/>
-        <img width="42" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" alt="Go"/><br><br>
+        <img src="https://skillicons.dev/icons?i=java,spring,go" /><br><br>
         Java • Spring Boot • JPA<br>Spring Security • JWT • Go
       </td>
       <td align="center" width="25%" valign="top">
         <b>Database</b><br><br>
-        <img width="42" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" alt="PostgreSQL"/>
-        <img width="42" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="MySQL"/>
-        <img width="42" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" alt="MongoDB"/><br><br>
+        <img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb" /><br><br>
         PostgreSQL • MySQL • MongoDB
       </td>
       <td align="center" width="25%" valign="top">
         <b>Frontend</b><br><br>
-        <img width="42" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React"/>
-        <img width="42" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angular/angular-original.svg" alt="Angular"/>
-        <img width="42" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" alt="Tailwind CSS"/><br><br>
+        <img src="https://skillicons.dev/icons?i=react,angular,tailwind" /><br><br>
         React • Angular<br>Tailwind CSS • CSS3
       </td>
       <td align="center" width="25%" valign="top">
         <b>Tools & Infra</b><br><br>
-        <img width="42" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git"/>
-        <img width="42" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" alt="Linux"/>
-        <img width="42" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python"/><br><br>
+        <img src="https://skillicons.dev/icons?i=git,linux,py" /><br><br>
         Git • Linux • Python
       </td>
     </tr>
   </table>
 </div>
-
 <br>
 
-
+<div align="center">
+  <img src="assets/duke.png" width="300" alt="Java Duke and Pokemon-like Java Character">
+  <img src="assets/golang.png" width="170" alt="Muscular Go Gopher">
+</div>
 
 <br>
 
