@@ -21,11 +21,12 @@ Tech Stack
 <div align="center">
   <table width="100%">
     <tr>
-      <td align="center" width="25%" valign="top">
-        <b>Backend</b><br><br>
-        <img src="https://skillicons.dev/icons?i=java,spring,go" /><br><br>
-        Java • Spring Boot • JPA<br>Spring Security • JWT • Go
-      </td>
+     <td align="center" width="25%" valign="top">
+  <b>Backend</b><br><br>
+  <img src="https://skillicons.dev/icons?i=java,spring,go,ruby,rails" /><br><br>
+  Java • Spring Boot • JPA<br>
+  Spring Security • JWT • Go • Ruby • Rails
+</td>
       <td align="center" width="25%" valign="top">
         <b>Database</b><br><br>
         <img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb" /><br><br>
