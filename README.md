@@ -17,23 +17,34 @@ Tech Stack
 <div align="center">
   <table width="100%">
     <tr>
+      <!-- BACKEND -->
       <td align="center" width="25%" valign="top">
         <b>Backend</b><br><br>
-        <img src="https://skillicons.dev/icons?i=java,spring,kotlin,go,ruby,rails" /><br><br>
+        <!-- linha 1 -->
+        <img src="https://skillicons.dev/icons?i=java,spring,kotlin" /><br><br>
+        <!-- linha 2 -->
+        <img src="https://skillicons.dev/icons?i=go,ruby,rails" /><br><br>
         Java • Spring Boot • JPA<br>
         Kotlin • Go • Ruby • Rails
       </td>
+      <!-- DATABASE -->
       <td align="center" width="25%" valign="top">
         <b>Database</b><br><br>
-        <img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,sqlite" /><br><br>
+        <!-- Relacionais -->
+        <img src="https://skillicons.dev/icons?i=postgres,mysql,mariadb" /><br><br>
+        <!-- NoSQL / Embedded -->
+        <img src="https://skillicons.dev/icons?i=mongodb,dynamodb,sqlite" /><br><br>
         PostgreSQL • MySQL • MariaDB<br>
-        MongoDB • SQLite • DynamoDB
+        MongoDB • DynamoDB • SQLite
       </td>
+      <!-- FRONTEND -->
       <td align="center" width="25%" valign="top">
         <b>Frontend</b><br><br>
         <img src="https://skillicons.dev/icons?i=react,angular,tailwind" /><br><br>
-        React • Angular<br>Tailwind CSS • CSS3
+        React • Angular<br>
+        Tailwind CSS • CSS3
       </td>
+      <!-- TOOLS -->
       <td align="center" width="25%" valign="top">
         <b>Tools & Infra</b><br><br>
         <img src="https://skillicons.dev/icons?i=git,linux,py" /><br><br>
