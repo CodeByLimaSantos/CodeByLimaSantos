@@ -27,16 +27,18 @@ Tech Stack
         Java • Spring Boot • JPA<br>
         Kotlin • Go • Ruby • Rails
       </td>
-      <!-- DATABASE -->
-      <td align="center" width="25%" valign="top">
-        <b>Database</b><br><br>
-        <!-- Relacionais -->
-        <img src="https://skillicons.dev/icons?i=postgres,mysql,mariadb" /><br><br>
-        <!-- NoSQL / Embedded -->
-        <img src="https://skillicons.dev/icons?i=mongodb,dynamodb,sqlite" /><br><br>
-        PostgreSQL • MySQL • MariaDB<br>
-        MongoDB • DynamoDB • SQLite
-      </td>
+    <td align="center" width="25%" valign="top">
+  <b>Database</b><br><br>
+
+  <!-- NoSQL (3 em cima) -->
+  <img src="https://skillicons.dev/icons?i=mongodb,dynamodb,sqlite" /><br><br>
+
+  <!-- Relacionais (2 embaixo + principais na descrição) -->
+  <img src="https://skillicons.dev/icons?i=postgres,mysql,mariadb" /><br><br>
+
+  PostgreSQL • MySQL • MariaDB<br>
+  MongoDB • DynamoDB • SQLite
+</td>
       <!-- FRONTEND -->
       <td align="center" width="25%" valign="top">
         <b>Frontend</b><br><br>
