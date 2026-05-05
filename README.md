@@ -8,29 +8,26 @@
   </p>
 </div>
 
-
 <div align="center">
 <h3>
 Tech Stack
 </h3>
-</p>
 </div>
-
-
 
 <div align="center">
   <table width="100%">
     <tr>
-     <td align="center" width="25%" valign="top">
-  <b>Backend</b><br><br>
-  <img src="https://skillicons.dev/icons?i=java,spring,go,ruby,rails" /><br><br>
-  Java • Spring Boot • JPA<br>
-  Spring Security • JWT • Go • Ruby • Rails
-</td>
+      <td align="center" width="25%" valign="top">
+        <b>Backend</b><br><br>
+        <img src="https://skillicons.dev/icons?i=java,spring,kotlin,go,ruby,rails" /><br><br>
+        Java • Spring Boot • JPA<br>
+        Kotlin • Go • Ruby • Rails
+      </td>
       <td align="center" width="25%" valign="top">
         <b>Database</b><br><br>
-        <img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb" /><br><br>
-        PostgreSQL • MySQL • MongoDB
+        <img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,sqlite" /><br><br>
+        PostgreSQL • MySQL • MariaDB<br>
+        MongoDB • SQLite • DynamoDB
       </td>
       <td align="center" width="25%" valign="top">
         <b>Frontend</b><br><br>
@@ -45,11 +42,12 @@ Tech Stack
     </tr>
   </table>
 </div>
+
 <br>
 
 <div align="center">
-  <img src="assets/duke.png" width="300" alt="Java Duke and Pokemon-like Java Character">
-  <img src="assets/golang.png" width="170" alt="Muscular Go Gopher">
+  <img src="assets/duke.png" width="300" alt="Java Duke">
+  <img src="assets/golang.png" width="170" alt="Go Gopher">
 </div>
 
 <br>
