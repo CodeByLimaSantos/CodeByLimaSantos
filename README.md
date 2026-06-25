@@ -15,7 +15,7 @@ Experienced in building scalable FullStack systems with
 Currently focused on **Cybersecurity**, infrastructure,  
 incident response, and secure large-scale systems.
 
-Certified by **IBSEC** in Ethical Hacker, DevSecOps, CyberSecurity Awareness and APDP.
+Certified by **IBSEC** in Ethical Hacker, DevSecOps and CyberSecurity Awareness.
 
 <br/>
 
