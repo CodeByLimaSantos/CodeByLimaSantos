@@ -7,7 +7,7 @@
 
 ### Software Engineer · Computer Science Student
 
-> FullStack • CyberSecurity • Linux • SOC Enthusiast
+> FullStack • CyberSecurity • SOC 
 
 Experienced in building scalable FullStack systems with  
 **Spring Boot**, **NestJS**, **Angular**, **React** and AI Solutions.
