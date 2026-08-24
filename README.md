@@ -13,7 +13,7 @@ Sou um Engenheiro de Software focado na construção de sistemas backend confiá
 
 Minha atuação profissional é voltada ao desenvolvimento e evolução de microsserviços, APIs e arquiteturas orientadas a eventos, com experiência na implementação de fluxos assíncronos utilizando Kafka, integração entre serviços, gateways e processamento distribuído com Java, Spring Boot e Golang.
 
-Também sou um entusiasta de Blockchains, Debian e ferramentas Open Source!
+Também sou um entusiasta de cultura Japonesa,Blockchains, Debian e ferramentas Open Source!
 
 > “Não acumule armas, nem pratique com armas além do que for útil.”
 >
