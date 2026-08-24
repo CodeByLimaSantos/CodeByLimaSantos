@@ -13,19 +13,17 @@ Sou um Engenheiro de Software focado na construção de sistemas backend confiá
 
 Minha atuação profissional é voltada ao desenvolvimento e evolução de microsserviços, APIs e arquiteturas orientadas a eventos, com experiência na implementação de fluxos assíncronos utilizando Kafka, integração entre serviços, gateways e processamento distribuído com Java, Spring Boot e Golang.
 
-Também sou um entusiasta em desenvolvimento de **blockchains e sistemas descentralizados**.
+Também sou um entusiasta de Blockchains, Debian e ferramentas Open Source!
+
+> “Não acumule armas, nem pratique com armas além do que for útil.”
+>
+> — Miyamoto Musashi
 
 <br/>
 
 <br/>
 
-<p align="left">
-  <a href="https://devguilhrm.netlify.app" target="_blank">
-    <img
-      src="https://img.shields.io/badge/PORTFOLIO-8B5CF6?style=for-the-badge&logo=firefox-browser&logoColor=white&labelColor=111111"
-    />
-  </a>
-</p>
+
 
 <td width="45%" align="right">
 
@@ -41,28 +39,28 @@ Também sou um entusiasta em desenvolvimento de **blockchains e sistemas descent
 
 ---
 
-## Foco em Engenharia
+## Minhas Habilidades
 
 <table width="100%">
 <tr>
 
 <td align="center" width="33%">
 
-### ☕ Java & Spring Boot
+###  Java & Spring Boot
 Serviços backend, APIs REST, persistência, concorrência e aplicações Spring preparadas para ambientes de produção.
 
 </td>
 
 <td align="center" width="33%">
 
-### 🧩 Microsserviços
+###  Microsserviços
 Definição de limites entre serviços, padrões de comunicação, isolamento de falhas, escalabilidade e arquiteturas distribuídas.
 
 </td>
 
 <td align="center" width="33%">
 
-### 📨 Arquitetura Orientada a Eventos
+###  Arquitetura Orientada a Eventos
 Comunicação assíncrona e fluxos orientados a eventos utilizando Kafka e RabbitMQ.
 
 </td>
@@ -73,21 +71,21 @@ Comunicação assíncrona e fluxos orientados a eventos utilizando Kafka e Rabbi
 
 <td align="center" width="33%">
 
-### 🏗️ Arquitetura de Software
-Clean Architecture, separação de responsabilidades, manutenibilidade, princípios SOLID e design de sistemas escaláveis.
+### Arquitetura de Software
+Clean Architecture, separação de responsabilidades e system design.
 
 </td>
 
 <td align="center" width="33%">
 
-### 📊 Observabilidade
+###  Observabilidade
 Monitoramento de aplicações, logs estruturados, métricas, tracing distribuído e análise de problemas em produção.
 
 </td>
 
 <td align="center" width="33%">
 
-### 🐳 Infraestrutura
+###  Infraestrutura
 Ambientes containerizados com Docker, Linux, infraestrutura de aplicações e engenharia backend orientada a deploy e produção.
 
 </td>
