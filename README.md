@@ -5,17 +5,15 @@
 
 # Guilherme Lima
 
-### Software Engineer · Computer Science Student
+### Engenheiro de Software Pleno
 
-> FullStack • CyberSecurity • SOC 
+> Engenharia de Backend
 
-Experienced in building scalable FullStack systems with  
-**Spring Boot**, **NestJS**, **Angular**, **React** and AI Solutions.
+Sou um Engenheiro de Software focado na construção de sistemas backend confiáveis e escaláveis com  **Java, Spring Boot, Golang, Kafka, RabbitMQ e Docker**.
 
-Currently focused on **Cybersecurity**, infrastructure,  
-incident response, and secure large-scale systems.
+Minha atuação profissional é voltada ao desenvolvimento e evolução de microsserviços, APIs e arquiteturas orientadas a eventos, com experiência na implementação de fluxos assíncronos utilizando Kafka, integração entre serviços, gateways e processamento distribuído com Java, Spring Boot e Golang.
 
-Certified by **IBSEC** in Ethical Hacker, DevSecOps and CyberSecurity Awareness.
+Também sou um entusiasta em desenvolvimento de **blockchains e sistemas descentralizados**.
 
 <br/>
 
@@ -28,6 +26,7 @@ Certified by **IBSEC** in Ethical Hacker, DevSecOps and CyberSecurity Awareness.
     />
   </a>
 </p>
+
 <td width="45%" align="right">
 
 <img 
@@ -42,29 +41,29 @@ Certified by **IBSEC** in Ethical Hacker, DevSecOps and CyberSecurity Awareness.
 
 ---
 
-## Currently Studying
+## Foco em Engenharia
 
 <table width="100%">
 <tr>
 
 <td align="center" width="33%">
 
-### 🐧 Linux
-System administration, shell scripting and process management.
+### ☕ Java & Spring Boot
+Serviços backend, APIs REST, persistência, concorrência e aplicações Spring preparadas para ambientes de produção.
 
 </td>
 
 <td align="center" width="33%">
 
-### 🔒 Security
-Application security, secure coding and DevSecOps practices.
+### 🧩 Microsserviços
+Definição de limites entre serviços, padrões de comunicação, isolamento de falhas, escalabilidade e arquiteturas distribuídas.
 
 </td>
 
 <td align="center" width="33%">
 
-### 🌐 Networking Engineering
-Protocols, infrastructure and network analysis.
+### 📨 Arquitetura Orientada a Eventos
+Comunicação assíncrona e fluxos orientados a eventos utilizando Kafka e RabbitMQ.
 
 </td>
 
@@ -74,22 +73,22 @@ Protocols, infrastructure and network analysis.
 
 <td align="center" width="33%">
 
-### ⚙️ Operational Systems
-Linux internals, permissions and system architecture.
+### 🏗️ Arquitetura de Software
+Clean Architecture, separação de responsabilidades, manutenibilidade, princípios SOLID e design de sistemas escaláveis.
 
 </td>
 
 <td align="center" width="33%">
 
-### 🛡️ Incident Response
-Monitoring, detection and response strategies.
+### 📊 Observabilidade
+Monitoramento de aplicações, logs estruturados, métricas, tracing distribuído e análise de problemas em produção.
 
 </td>
 
 <td align="center" width="33%">
 
-### 🖥️ System Administration
-Infrastructure management and server configuration.
+### 🐳 Infraestrutura
+Ambientes containerizados com Docker, Linux, infraestrutura de aplicações e engenharia backend orientada a deploy e produção.
 
 </td>
 
@@ -98,11 +97,25 @@ Infrastructure management and server configuration.
 
 ---
 
-## Tech Stack
+## Atualmente Aprofundando
+
+- **Java & Spring Boot** avançado
+- Arquitetura de **microsserviços** e sistemas distribuídos
+- **Kafka** e padrões de event streaming
+- **RabbitMQ** e mensageria assíncrona
+- **Observabilidade**, métricas, logs e tracing distribuído
+- Performance e escalabilidade de aplicações
+- **Clean Architecture**
+- Docker e infraestrutura de aplicações
+- Arquitetura de blockchain e sistemas descentralizados
+
+---
+
+## Tecnologias
 
 <p align="center">
   <img 
-  src="https://skillicons.dev/icons?i=java,spring,nestjs,ts,js,react,angular,tailwind,postgres,mysql,mongodb,sqlite,prisma,docker,kafka,git,linux,kali&perline=9"
+  src="https://skillicons.dev/icons?i=java,go,ts,angular,postgres,mongodb,docker,kafka,git,linux,kali,debian&perline=9"
 />
 </p>
 
@@ -135,10 +148,9 @@ Infrastructure management and server configuration.
 </tr>
 </table>
 
-
 ---
 
-## Contact Me
+## Contato
 
 <p align="center">
 
@@ -146,11 +158,9 @@ Infrastructure management and server configuration.
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
-
 <a href="mailto:guilimadev19@gmail.com">
   <img src="https://img.shields.io/badge/Email-ffffff?style=for-the-badge&logo=gmail&logoColor=000000&labelColor=ffffff"/>
 </a>
-
 
 <a href="https://www.instagram.com/glhrm.lima/" target="_blank">
   <img src="https://img.shields.io/badge/Instagram-000000?style=for-the-badge&logo=instagram&logoColor=white"/>
