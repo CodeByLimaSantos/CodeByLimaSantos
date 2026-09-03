@@ -5,13 +5,13 @@
 
 # Guilherme Lima
 
-### Engenheiro de Software Pleno
+### Engenheiro de Software
 
 > Engenharia de Backend
 
 Sou um Engenheiro de Software focado na construção de sistemas backend confiáveis e escaláveis com  **Java, Spring Boot, Golang, Kafka, RabbitMQ e Docker**.
 
-Minha atuação profissional é voltada ao desenvolvimento e evolução de microsserviços, APIs e arquiteturas orientadas a eventos, com experiência na implementação de fluxos assíncronos utilizando Kafka, integração entre serviços, gateways e processamento distribuído com Java, Spring Boot e Golang.
+Minha atuação profissional é voltada ao desenvolvimento e evolução de microsserviços, APIs e arquiteturas orientadas a eventos, com experiência na implementação de fluxos assíncronos utilizando Kafka, integração entre serviços, gateways e processamento distribuído com ASP NET core, .NET, Spring Boot e Golang.
 
 Também sou um entusiasta de cultura Japonesa,Blockchains, Debian e ferramentas Open Source!
 
