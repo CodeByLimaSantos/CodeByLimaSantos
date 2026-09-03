@@ -52,7 +52,7 @@ Também sou um entusiasta de cultura Japonesa,Blockchains, Debian e ferramentas 
 
 <td align="center" width="33%">
 
-###  Java & Spring Boot
+###  ASP NET Core | C# | Java e Spring Boot
 Serviços backend, APIs REST, persistência, concorrência e aplicações Spring preparadas para ambientes de produção.
 
 </td>
