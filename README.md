@@ -119,7 +119,7 @@ Ambientes containerizados com Docker, Linux, infraestrutura de aplicações e en
 
 <p align="center">
   <img 
-  src="https://skillicons.dev/icons?i=java,go,ts,angular,postgres,mongodb,docker,kafka,git,linux,kali,debian&perline=9"
+  src="https://skillicons.dev/icons?i=cs,dotnet,java,go,angular,docker,aws,kafka,postgres,mongodb,git,linux,kali,debian&perline=9"
 />
 </p>
 
