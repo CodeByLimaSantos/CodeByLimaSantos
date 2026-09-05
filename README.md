@@ -5,7 +5,7 @@
 
 # Guilherme Lima
 
-### Engenheiro de Software
+### Engenheiro de Software Pleno
 
 > Engenharia de Backend
 
