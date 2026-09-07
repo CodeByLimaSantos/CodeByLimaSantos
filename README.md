@@ -5,37 +5,35 @@
 
 # Guilherme Lima
 
-### Engenheiro de Software Pleno
+### Mid-Level Software Engineer
 
-> Engenharia de Backend
+> Backend Engineering
 
-Sou um Engenheiro de Software focado na construção de sistemas backend confiáveis e escaláveis com  **Java, Spring Boot, Golang, Kafka, RabbitMQ e Docker**.
+I am a Software Engineer with 3+ years of experience, a [C1 English Certificate](https://cert.efset.org/pt/5d8eHd), and a strong focus on building reliable and scalable backend systems using **Java, Spring Boot, Golang, Kafka, RabbitMQ, and Docker**.
 
-Minha atuação profissional é voltada ao desenvolvimento e evolução de microsserviços, APIs e arquiteturas orientadas a eventos, com experiência na implementação de fluxos assíncronos utilizando Kafka, integração entre serviços, gateways e processamento distribuído com ASP NET core, .NET, Spring Boot e Golang.
+My professional experience is centered on developing and evolving microservices, APIs, and event-driven architectures, with hands-on experience implementing asynchronous workflows using Kafka, service integrations, API gateways, and distributed processing with **ASP.NET Core, .NET, Spring Boot, and Golang**.
+I am also an enthusiast of **Japanese culture, blockchain technology, Debian, and Open Source tools**.
 
-Também sou um entusiasta de cultura Japonesa,Blockchains, Debian e ferramentas Open Source!
-
-> “Não acumule armas, nem pratique com armas além do que for útil.”
+> “Do not collect weapons or practice with weapons beyond what is useful.”
 >
 > — Miyamoto Musashi
 
 <br/>
+
 <p align="left">
   <a href="https://devguilhrm.netlify.app" target="_blank">
     <img
       src="https://img.shields.io/badge/PORTFOLIO-8B5CF6?style=for-the-badge&logo=firefox-browser&logoColor=white&labelColor=111111"
     />
   </a>
-</p>
+
 <br/>
-
-
 
 <td width="45%" align="right">
 
 <img 
-  src="https://giffiles.alphacoders.com/171/171318.gif"
-  width="100%"
+src="https://giffiles.alphacoders.com/171/171318.gif"
+width="100%"
 />
 
 </td>
@@ -45,29 +43,32 @@ Também sou um entusiasta de cultura Japonesa,Blockchains, Debian e ferramentas 
 
 ---
 
-## Minhas Habilidades
+## My Skills
 
 <table width="100%">
 <tr>
 
 <td align="center" width="33%">
 
-###  ASP NET Core | C# | Java e Spring Boot
-Serviços backend, APIs REST, persistência, concorrência e aplicações Spring preparadas para ambientes de produção.
+### ASP.NET Core | C# | Java & Spring Boot
+
+Backend services, REST APIs, persistence, concurrency, and Spring applications designed for production environments.
 
 </td>
 
 <td align="center" width="33%">
 
-###  Microsserviços
-Definição de limites entre serviços, padrões de comunicação, isolamento de falhas, escalabilidade e arquiteturas distribuídas.
+### Microservices
+
+Defining service boundaries, communication patterns, fault isolation, scalability, and distributed architectures.
 
 </td>
 
 <td align="center" width="33%">
 
-###  Arquitetura Orientada a Eventos
-Comunicação assíncrona e fluxos orientados a eventos utilizando Kafka e RabbitMQ.
+### Event-Driven Architecture
+
+Asynchronous communication and event-driven workflows using Kafka and RabbitMQ.
 
 </td>
 
@@ -77,22 +78,25 @@ Comunicação assíncrona e fluxos orientados a eventos utilizando Kafka e Rabbi
 
 <td align="center" width="33%">
 
-### Arquitetura de Software
-Clean Architecture, separação de responsabilidades e system design.
+### Software Architecture
+
+Clean Architecture, separation of concerns, and system design.
 
 </td>
 
 <td align="center" width="33%">
 
-###  Observabilidade
-Monitoramento de aplicações, logs estruturados, métricas, tracing distribuído e análise de problemas em produção.
+### Observability
+
+Application monitoring, structured logging, metrics, distributed tracing, and production issue analysis.
 
 </td>
 
 <td align="center" width="33%">
 
-###  Infraestrutura
-Ambientes containerizados com Docker, Linux, infraestrutura de aplicações e engenharia backend orientada a deploy e produção.
+### Infrastructure
+
+Containerized environments with Docker, Linux, application infrastructure, and backend engineering focused on deployment and production environments.
 
 </td>
 
@@ -101,26 +105,26 @@ Ambientes containerizados com Docker, Linux, infraestrutura de aplicações e en
 
 ---
 
-## Atualmente Aprofundando
+## Currently Deepening My Knowledge In
 
-- **Java & Spring Boot** avançado
-- Arquitetura de **microsserviços** e sistemas distribuídos
-- **Kafka** e padrões de event streaming
-- **RabbitMQ** e mensageria assíncrona
-- **Observabilidade**, métricas, logs e tracing distribuído
-- Performance e escalabilidade de aplicações
-- **Clean Architecture**
-- Docker e infraestrutura de aplicações
-- Arquitetura de blockchain e sistemas descentralizados
+* Advanced **Java & Spring Boot**
+* **Microservices architecture** and distributed systems
+* **Kafka** and event-streaming patterns
+* **RabbitMQ** and asynchronous messaging
+* **Observability**, metrics, logs, and distributed tracing
+* Application performance and scalability
+* **Clean Architecture**
+* Docker and application infrastructure
+* Blockchain architecture and decentralized systems
 
 ---
 
-## Tecnologias
+## Technologies
 
 <p align="center">
   <img 
   src="https://skillicons.dev/icons?i=cs,dotnet,java,go,angular,docker,aws,kafka,postgres,mongodb,git,linux,kali,debian&perline=9"
-/>
+  />
 </p>
 
 ---
@@ -154,7 +158,7 @@ Ambientes containerizados com Docker, Linux, infraestrutura de aplicações e en
 
 ---
 
-## Contato
+## Contact
 
 <p align="center">
 
